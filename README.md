@@ -14,8 +14,14 @@
 
 ## Informations
 
+
 The application is scrapeing live data from the blog of [RisingStack](https://blog.risingstack.com/).
 
 It scrapes a specified amount of pages which we are able to specify in the frontend.
 
 It crawls through every articles content area and filters out and displays those that don't have direct links to *://risingstack.com/*. 
+
+## Update plans
+
+I am planning to make a mongoDB database for this application , but during the making of the app I couldn't really think about how would a database could be useful for
+the current stage of the app so I haven't made one .
